@@ -10,7 +10,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { Link } from "react-router-dom";
 import PhoneIcon from '@material-ui/icons/Phone';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
-import MainLogo2 from "../header/1-1.png";
+import MainLogo2 from "../header/PNG.png";
 
 
 
@@ -98,7 +98,7 @@ export default class Foooter extends Component {
 
           <div className="col-lg-4 col-md-6 col-sm-6 col-12" style={{ fontSize: "15px",marginBottom:"2rem"  }}>
             <p style={{ color: "#daac1d", fontWeight: "bold", fontSize: "18px" }}>
-              Şanlıurfa Titanyum Beauty Güzellik Merkezi
+              Şanlıurfa Titanyum Beauty Saloon
             </p>
             <hr/>
             <a
@@ -145,23 +145,23 @@ export default class Foooter extends Component {
             <br/>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
-              <a href="mailto:blueliva25@gmail.com">
+              <a href="mailto:titanyum.beauty.63@gmail.com">
                 <EmailIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              blueliva25@gmail.com  
+              titanyum.beauty.63@gmail.com  
             </p>
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905075994155"
+                href="tel: +905056396363"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              0552 635 01 25  <FontAwesomeIcon icon="coffee" size="lg" />
+              0505 639 63 63  <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               
@@ -173,7 +173,7 @@ export default class Foooter extends Component {
                 <HomeIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              Muratpaşa Mah. Erzincan Kapı Cad. No:99 Kapı No:13 <br/> Yakutiye / Erzurum{" "}
+              Şair Şevket Mah. Atatürk Bulvarı No:24/4 <br/> Haliliye / Şanlıurfa{" "}
 
              
             </p>
