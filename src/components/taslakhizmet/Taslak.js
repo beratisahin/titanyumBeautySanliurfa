@@ -18,9 +18,9 @@ render() {
         
                         <a href={taslaklink} class="read-more">Daha Fazla Bilgi</a>
                         <div class="icon-links">
-                                <a href="#"><i class="fa-solid fa-leaf" style={{color:"#daac1d"}}></i></a>  
-                                <a href="#"><i class="fa-solid fa-crown" style={{color:"#daac1d"}}></i></a>
-                                <a href="#"><i class="fas fa-heart" style={{color:"#daac1d"}}></i></a>
+                                <a href="#"><i class="fa-solid fa-leaf" style={{color:"#B39862"}}></i></a>  
+                                <a href="#"><i class="fa-solid fa-crown" style={{color:"#B39862"}}></i></a>
+                                <a href="#"><i class="fas fa-heart" style={{color:"#B39862"}}></i></a>
                         </div>
                 </div>
 
