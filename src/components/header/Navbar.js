@@ -33,7 +33,7 @@ export default class Navbar extends Component {
           <nav class="navbar">
             <div class="branding">
               <a href="/">
-                <img  className="BlueLivaLogo" title="Erzurum Blue Liva Güzellik Merkezi" src={Logo2}></img>
+                <img  className="BlueLivaLogo" title="Şanlıurfa Titanyum Beauty Saloon" src={Logo2}></img>
               </a>
                 
             </div>
@@ -49,7 +49,7 @@ export default class Navbar extends Component {
             <ul class="submenu">
 
               <li><a href="/medikal-cilt-bakimi" class="menu-link">Medikal Cilt Bakımı</a></li>
-              <li><a href="/robotx-lazer-epilasyon" class="menu-link">RobotX Lazer Epilasyon</a></li>
+              <li><a href="/umex-lazer-epilasyon" class="menu-link">UmeX Lazer Epilasyon</a></li>
               <li><a href="/hydrafacial-cilt-bakimi" class="menu-link">Hydrafacial Cilt Bakımı</a></li>
               <li><a href="/g5-kavitasyon" class="menu-link">G5 Masajı - Kavitasyon</a></li>
               <li><a href="/kirpik-lifting" class="menu-link">Kirpik Lifting</a></li>

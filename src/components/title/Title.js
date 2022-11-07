@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import "./Title.css";
-import S1 from "../header/bLLogo2.png";
+import S1 from "../header/PNG.png";
 
 
 

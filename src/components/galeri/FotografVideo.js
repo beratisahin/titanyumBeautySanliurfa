@@ -5,7 +5,7 @@ import Title from "../title/Title";
 import Instagram from "./BlueLivaFotoVideo.png"
 
 export default function FotografVideo() {
-    useDocumentTitle('Fotoğraflar- Erzurum Blue Liva Güzellik Merkezi');
+    useDocumentTitle('Fotoğraflar- Şanlıurfa Titanyum Beauty Saloon');
     return (
         <div className="col-12">
           <div className="card m-4" style={{align:"center",backgroundColor:"#f8f7fb",borderRadius:"5px"}}>
