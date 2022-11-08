@@ -102,7 +102,7 @@ export default class Foooter extends Component {
             </p>
             <hr/>
             <a
-              href="https://www.facebook.com/Erzurum-Blue-Liva-G%C3%BCzellik-Salonu-101863342555865"
+              href="https://www.facebook.com/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left" }}
@@ -110,7 +110,7 @@ export default class Foooter extends Component {
               <FacebookIcon className="icon" style={{fontSize:"24px"}}/>
             </a>
             <a
-              href="https://www.instagram.com/blue_liva/"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -133,15 +133,6 @@ export default class Foooter extends Component {
             >
               <SettingsPhoneIcon className="icon" style={{fontSize:"24px"}} />
             </a>
-            <a
-              href="https://www.youtube.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ float: "left", textIndent: "10px",color:"red" }}
-            >
-              <YouTubeIcon className="icon" style={{fontSize:"24px"}} />
-            </a>
-            <br />
             <br/>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
@@ -166,7 +157,7 @@ export default class Foooter extends Component {
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               
               <a 
-                href="https://www.google.com/maps?q=Alt%C4%B1y%C3%BCzevler+Mah.+%C4%B0maml%C4%B1k+Cad.+No:4+Merkez+/+Tokat&rlz=1C1GCEU_enTR867TR868&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi9uYK325H3AhVxS_EDHbHkA3AQ_AUoAXoECAEQAw"
+                href="https://goo.gl/maps/UFT5qkYYV8tXavSYA"
                 target="_blank"
                 rel="noopener noreferrer"
               >
