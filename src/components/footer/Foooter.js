@@ -134,6 +134,7 @@ export default class Foooter extends Component {
               <SettingsPhoneIcon className="icon" style={{fontSize:"24px"}} />
             </a>
             <br/>
+            <br/>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a href="mailto:titanyum.beauty.63@gmail.com">
