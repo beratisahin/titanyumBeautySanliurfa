@@ -60,20 +60,7 @@ export default class Navbar extends Component {
             </ul>
           </li>
           <li><a href="/cihazlarimiz" class="menu-link" style={{fontSize:"medium"}}><CategoryIcon style={{fontSize:"medium"}}/>&nbsp;Cihazlarımız</a></li>
-          <li class="has-dropdown" >
-          
-            <a href="#" class="menu-link" style={{fontSize:"medium"}}><CameraAltIcon style={{fontSize:"medium"}}/>&nbsp;Galeri &nbsp;
-              <span class="arrow"></span>
-            </a>
-            <ul class="submenu">
-            
-            <li><a href="/fotograflar" class="menu-link">Fotoğraf</a></li>
-            <li><a href="/videolar" class="menu-link">Video</a></li>
-      
-              
-            </ul>
-          </li>
-         
+          <li><a href="/galeri" class="menu-link" style={{fontSize:"medium"}}><CameraAltIcon style={{fontSize:"medium"}}/>&nbsp;Galeri</a></li>
           <li><a href="/blog" class="menu-link" style={{fontSize:"medium"}}><ContactlessIcon style={{fontSize:"medium"}}/>&nbsp;Blog</a></li>
           <li><a href="/iletisim" class="menu-link" style={{fontSize:"medium"}}><ContactMailIcon style={{fontSize:"medium"}}/>&nbsp;İletişim</a></li>
         </ul>

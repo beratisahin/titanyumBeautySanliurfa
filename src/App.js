@@ -23,8 +23,7 @@ import KasLaminasyonu from "./components/hizmetler/BikiniBolgesi";
 
 import Cihazlar from "./components/hizmetler/Urunler";
 import Blog from "./components/blog/Blog";
-import Fotograf from "./components/galeri/FotografVideo";
-import Video from "./components/galeri/FotografVideo";
+import Galeri from "./components/galeri/FotografVideo";
 
 
 
@@ -57,8 +56,8 @@ function App() {
             <Route exact path="/cihazlarimiz" component={Cihazlar}/>
            
             <Route exact path="/blog" component={Blog} />
-            <Route exact path="/fotograflar" component={Fotograf} />
-            <Route exact path="/videolar" component={Video} />
+            <Route exact path="/galeri" component={Galeri} />
+            
             
             <Route path="/iletisim" component={Iletisim} />
 

@@ -13,8 +13,8 @@ export default function FotografVideo() {
                     page_title="Fotoğraf ve Video"
                />
                 <br/>
-                <p className="instaLink" style={{textAlign:"center",color:"red"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/blue_liva/" target="_blank">Blue Liva</a> instagram profilimizi ziyaret edebilirsiniz. </p>
-                <img src={Instagram} style={{width:"95%",height:"auto"}}></img>
+                {/* <p className="instaLink" style={{textAlign:"center",color:"red"}}>Detaylı güncel fotoğraf ve videolar için <a className="instagram"  href="https://www.instagram.com/blue_liva/" target="_blank">Blue Liva</a> instagram profilimizi ziyaret edebilirsiniz. </p>
+                <img src={Instagram} style={{width:"95%",height:"auto"}}></img> */}
             </div>
             
         </div>
