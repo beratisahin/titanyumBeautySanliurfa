@@ -47,7 +47,7 @@ function App() {
            
             
             <Route exact path="/medikal-cilt-bakimi" component={Medikal}/>
-            <Route exact path="/umex-lazer-epilasyon" component={Tum}/>
+            <Route exact path="/ultron-lazer-epilasyon" component={Tum}/>
             <Route exact path="/hydrafacial-cilt-bakimi" component={Hydrafacial}/>
             <Route exact path="/g5-kavitasyon" component={G5}/>
             <Route exact path="/kirpik-lifting" component={KirpikLifting}/>

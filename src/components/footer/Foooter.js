@@ -110,7 +110,7 @@ export default class Foooter extends Component {
               <FacebookIcon className="icon" style={{fontSize:"24px"}}/>
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/titanyum.beauty.sanliurfa"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -191,7 +191,7 @@ export default class Foooter extends Component {
 
 
           <div className="roof-location">
-              <a href="https://goo.gl/maps/7ryRSpGz7PPH1rZW9" className="location_float" target="_blank" rel="noopener noreferrer">
+              <a href="https://goo.gl/maps/UFT5qkYYV8tXavSYA" className="location_float" target="_blank" rel="noopener noreferrer">
                   <LocationOnIcon className="location-icon"/>
               </a>
           </div>
