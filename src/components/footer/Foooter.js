@@ -165,7 +165,7 @@ export default class Foooter extends Component {
                 <HomeIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              Şair Şevket Mah. Atatürk Bulvarı No:24/4 <br/> Haliliye / Şanlıurfa{" "}
+              Kamberiye Mahallesi Adalet Caddesi No:8 U3-B Blok Kat:2 Daire:5 <br/> Haliliye / Şanlıurfa{" "}
 
              
             </p>
